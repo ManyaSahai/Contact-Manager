@@ -1,0 +1,22 @@
+:root {
+    --uicontainter: white;
+    --body_background: white;
+    --header: white;
+    --body_color: black;
+    --add_button: rgb(47, 47, 255);
+    --body: black; 
+    --bg: white;
+
+
+}
+
+[data-theme="dark"] {
+    --uicontainer: #282c34;
+    --body_background: #282c34;
+    --header: #282c34
+    --add_button: cyan;
+    --body: white;
+    --bg: #282c34;
+
+}
+

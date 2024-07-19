@@ -1,0 +1,48 @@
+body {
+  color: var(--body);
+  background-color: var(--bg);
+}
+.header-title {
+  background-color: var(--header);
+}
+
+.ui.container{
+  background-color:var(--uicontainer);
+}
+
+.ui.fixed.menu {
+  background-color: var(--body_background);
+}
+.ui.container.header-container {
+  background-color: var(--header);
+}
+  
+  .ui.button{
+    background-color: var(--add_button);
+  }
+
+
+.main {
+  margin-top: 5em;
+}
+
+.center {
+  justify-content: center;
+  padding: 10px;
+  
+}
+
+.ui.search input {
+  width: 100%;
+  border-radius: 0 !important;
+}
+
+.item {
+  padding: 15px 0px !important;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
